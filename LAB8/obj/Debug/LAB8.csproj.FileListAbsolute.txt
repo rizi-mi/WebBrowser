@@ -1,0 +1,10 @@
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\obj\Debug\LAB8.csproj.AssemblyReference.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\obj\Debug\LAB8.Form1.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\obj\Debug\LAB8.Properties.Resources.resources
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\obj\Debug\LAB8.csproj.GenerateResource.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\obj\Debug\LAB8.csproj.CoreCompileInputs.cache
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\bin\Debug\LAB8.exe.config
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\bin\Debug\LAB8.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\bin\Debug\LAB8.pdb
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\obj\Debug\LAB8.exe
+C:\Users\vladi\OneDrive\Рабочий стол\Учёба\LAB8\obj\Debug\LAB8.pdb
